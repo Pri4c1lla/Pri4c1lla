@@ -10,10 +10,3 @@
 > <br/>**Languages**<br/>
 > I speak **Thai** and **English**, <bf/>
 ---
-
-### wanna talk?
-| Contact | Platform |
-| --- | --- |
-| `pri4c1lla` | Discord |
-| [`pri4c1lla`](https://www.facebook.com/pri4c1lla) | Facebook |
-| [`pri4c1lla`](https://x.com/pri4c1lla) | Twitter |
