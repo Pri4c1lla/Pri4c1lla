@@ -1,5 +1,5 @@
 # Hello/Hi "Stranger"!
-> **I'm Stacia**, I'm Starting Coding At Grade 7, And First Time Using Executor at 2019 or 2020
+> **I'm Stacia**. starting coding at grade 7
 > 
 > 
 > [![Stats](https://github-readme-stats.vercel.app/api?username=pri4c1lla&show_icons=true&count_private=true&theme=dark)](https://github.com/pri4c1lla)
