@@ -1,5 +1,5 @@
 # Hello/Hi "Stranger"!
-> **I'm Stasia.** I started coding when I was 12, but I really started coding when I was 13. <3
+> **I'm Shion.** i don't know what you looking at my profile or repositories, but thank you for visit
 > 
 > 
 > [![Stats](https://github-readme-stats.vercel.app/api?username=pri4c1lla&show_icons=true&count_private=true&theme=dark)](https://github.com/pri4c1lla)
